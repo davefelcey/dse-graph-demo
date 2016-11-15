@@ -5,6 +5,7 @@ This demo uses Vagrant to create a VM, install DSE Graph and configure and start
 ## Setup
 
 ### Requirements
+- VirtualBox
 - Vagrant (to build the VM)
 - A DataStax Accademy (DA) account
 
